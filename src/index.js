@@ -7,10 +7,10 @@ import { lightbox } from './js/lightbox';
 const { searchForm, gallery, btnLoadMore } = refs;
 
 const paramsForNotify = {
-    position: 'center-center',
+    position: 'right-top',
     timeout: 4000,
     width: '400px',
-    fontSize: '24px'
+    fontSize: '16px'
 };
 
 const perPage = 40;
